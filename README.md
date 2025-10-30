@@ -16,4 +16,4 @@ Organisers:
 - Politecnico di Torino - DAD Department: prof. G.Chiesa and Arch. A.JahaniRahaei
 - University of Genoa - DAD Department: prof. K.Perini and Arch. A.Mosca
 
-for any information: ali.jahanirahaei@polito.it, giacomo.chiesa@polito.it
+for any information :envelope:: ali.jahanirahaei@polito.it, giacomo.chiesa@polito.it
